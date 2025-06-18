@@ -1,4 +1,4 @@
-## 🚀  **Chức năng của repository này là** Get Link CDN jsDelivr từ Link Github !!! 🚀
+## 🚀  **Chức năng của repo này là** Get Link CDN jsDelivr từ Link Github !!! 🚀
 
 <br/>
 
